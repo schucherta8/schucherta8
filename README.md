@@ -9,6 +9,7 @@ Reach me via email: [schuchert.a@northeastern.edu](mailto:schuchert.a@northeaste
 
 Phone: (203) 450-5262
 
+![Andres' github stats](https://github-readme-stats.vercel.app/api?username=schucherta8&show_icons=true&theme=dark)
 <!--
 **schucherta8/schucherta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
