@@ -1,4 +1,13 @@
-### Hi there 👋
+### About Me
+Software engineer with a proven ability to deliver robust applications in collaborative settings with strict deadlines. As a student TA, I supervised lab groups of 4-5 students each week over two semesters and coached 12+ students on lecture materials, lab assignments and projects while balancing my own course work. In my previous career, I evaluated 500+ reality tv candidates’ social media for controversial statements, actions, or custom requirements defined by TV networks. I am excited to learn new technologies and eager to solve complex problems at a position on a collaborative team focused on developing dynamic back-end applications.
+
+Check my resume out here: [Andres Resume](https://docs.google.com/document/d/1_WGZbJ1z3EX8Fc8HXEipa7F4ZMSUauzSKUQBVZO1y3M/edit?usp=sharing)
+
+Message me here: [Linkedin](https://www.linkedin.com/in/andres-schuchert-554b33131/)
+
+Reach me via email: [schuchert.a@northeastern.edu](mailto:schuchert.a@northeastern.edu)
+
+Call Me here: (203) 450-5262
 
 <!--
 **schucherta8/schucherta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
