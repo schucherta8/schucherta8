@@ -7,7 +7,7 @@ Message me here: [Linkedin](https://www.linkedin.com/in/andres-schuchert-554b331
 
 Reach me via email: [schuchert.a@northeastern.edu](mailto:schuchert.a@northeastern.edu)
 
-Call Me here: (203) 450-5262
+Phone: (203) 450-5262
 
 <!--
 **schucherta8/schucherta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
